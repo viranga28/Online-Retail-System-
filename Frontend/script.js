@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+addEventListener('DOMContentLoaded', () => {
     const productList = document.getElementById('product-list');
     const shoppingCart = document.getElementById('shopping-cart');
     const cartTotalDisplay = document.getElementById('cart-total');
